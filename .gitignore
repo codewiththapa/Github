@@ -1,0 +1,21 @@
+node_modules
+somthapa/
+NTUSER.DAT
+.bash_history
+.gitconfig
+.vscode/
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+NTUSER.DAT
+OneDrive/
+Saved Games/
+Searches/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+vmlogs/
